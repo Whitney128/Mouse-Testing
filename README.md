@@ -30,3 +30,11 @@ Select a mouse that was treated with Capomulin and generate a line plot of time 
 
 Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data.
+
+Observations:
+
+1.Distribution between Female and Male mice are very close to 50/50
+
+2.Ramicane and Capomulin final Tumor Volume seem to be the lowest of the four
+
+3.The more weight a mouse has seems to cause a higher Tumor Volume
